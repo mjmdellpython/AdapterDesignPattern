@@ -1,0 +1,16 @@
+C:\Users\mjmde\Desktop\CommanderRepo\design Pattern\bin\Debug\net5.0\design Pattern.exe
+C:\Users\mjmde\Desktop\CommanderRepo\design Pattern\bin\Debug\net5.0\design Pattern.deps.json
+C:\Users\mjmde\Desktop\CommanderRepo\design Pattern\bin\Debug\net5.0\design Pattern.runtimeconfig.json
+C:\Users\mjmde\Desktop\CommanderRepo\design Pattern\bin\Debug\net5.0\design Pattern.runtimeconfig.dev.json
+C:\Users\mjmde\Desktop\CommanderRepo\design Pattern\bin\Debug\net5.0\design Pattern.dll
+C:\Users\mjmde\Desktop\CommanderRepo\design Pattern\bin\Debug\net5.0\ref\design Pattern.dll
+C:\Users\mjmde\Desktop\CommanderRepo\design Pattern\bin\Debug\net5.0\design Pattern.pdb
+C:\Users\mjmde\Desktop\CommanderRepo\design Pattern\obj\Debug\net5.0\design Pattern.csproj.AssemblyReference.cache
+C:\Users\mjmde\Desktop\CommanderRepo\design Pattern\obj\Debug\net5.0\design Pattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mjmde\Desktop\CommanderRepo\design Pattern\obj\Debug\net5.0\design Pattern.AssemblyInfoInputs.cache
+C:\Users\mjmde\Desktop\CommanderRepo\design Pattern\obj\Debug\net5.0\design Pattern.AssemblyInfo.cs
+C:\Users\mjmde\Desktop\CommanderRepo\design Pattern\obj\Debug\net5.0\design Pattern.csproj.CoreCompileInputs.cache
+C:\Users\mjmde\Desktop\CommanderRepo\design Pattern\obj\Debug\net5.0\design Pattern.dll
+C:\Users\mjmde\Desktop\CommanderRepo\design Pattern\obj\Debug\net5.0\ref\design Pattern.dll
+C:\Users\mjmde\Desktop\CommanderRepo\design Pattern\obj\Debug\net5.0\design Pattern.pdb
+C:\Users\mjmde\Desktop\CommanderRepo\design Pattern\obj\Debug\net5.0\design Pattern.genruntimeconfig.cache
